@@ -27,7 +27,5 @@ export const Instructions = styled.div`
 `;
 
 export const InstructionHighlighted = styled.span`
-  &--highlighted {
-    text-decoration: underline;
-  }
+  text-decoration: underline;
 `;
