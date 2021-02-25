@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const Display = styled.div`
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr;
   text-align: center;
   @media only screen and (orientation: landscape) {
     grid-template-rows: 1fr;
